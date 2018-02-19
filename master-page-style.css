@@ -1,12 +1,13 @@
 /*CSS document*/
 
 .page-heading {
-	float: center;
+	text-align: center;
 }
 
 #site-title {
 	font-family: Impact, Charcoal, sans-serif;
 	font-size: 36px;
+	text-align: center;
 }
 
 #page-text {
