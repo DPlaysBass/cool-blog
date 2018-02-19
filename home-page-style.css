@@ -3,3 +3,13 @@
 .page-heading {
 	float: center;
 }
+
+#site-title {
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 36px;
+}
+
+#page-text {
+	font-family: "Lucidia Sans Unicode", "Lucidia Grande", sans-serif;
+	font-size: 16px;
+}
